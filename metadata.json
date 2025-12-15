@@ -1,0 +1,5 @@
+{
+  "name": "Daily Useless Knowledge",
+  "description": "A modern React application that delivers random, useless facts to brighten your day using a public REST API.",
+  "requestFramePermissions": []
+}
