@@ -26,6 +26,8 @@ A modern, responsive React web application that delivers random, interesting, an
 
 The app fetches a random fact from the Useless Facts API. If Italian is selected, it routes the English text through the MyMemory Translation API to provide a localized experience, maintaining a history buffer so you can navigate back and forth through your session.
 
+You can visit the siteweb at: [https://daily-useless-knowledge.vercel.app](https://daily-useless-knowledge.vercel.app)
+
 ## Credits
 
 *   Created with [Google AI Studio](https://aistudio.google.com/)
